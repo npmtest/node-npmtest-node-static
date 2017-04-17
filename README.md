@@ -1,7 +1,7 @@
 # test coverage for  [node-static (v0.7.9)](https://github.com/cloudhead/node-static)  [![npm package](https://img.shields.io/npm/v/npmtest-node-static.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-static) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-static.svg)](https://travis-ci.org/npmtest/node-npmtest-node-static)
 #### simple, compliant file streaming module for node
 
-[![NPM](https://nodei.co/npm/node-static.png?downloads=true)](https://www.npmjs.com/package/node-static)
+[![NPM](https://nodei.co/npm/node-static.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-static)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-node-static/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-static/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-static/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-static/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-static/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-static/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-node-static/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-node-static/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-static/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-node-static/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-node-static%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-node-static/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-static/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-node-static/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-node-static/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-node-static%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-node-static/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-node-static/build/test-report.html](https://npmtest.github.io/node-npmtest-node-static/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-node-static/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-node-static/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-node-static/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-node-static/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-node-static/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-node-static/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-node-static/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Alexis Sellier",
-        "email": "self@cloudhead.net"
+        "name": "Alexis Sellier"
     },
     "bin": {
         "static": "bin/cli.js"
@@ -38,12 +43,10 @@
     },
     "contributors": [
         {
-            "name": "Pablo Cantero",
-            "email": "pablo@pablocantero.com"
+            "name": "Pablo Cantero"
         },
         {
-            "name": "Ionică Bizău",
-            "email": "bizauionica@gmail.com"
+            "name": "Ionică Bizău"
         }
     ],
     "dependencies": {
@@ -79,21 +82,17 @@
     "main": "./lib/node-static",
     "maintainers": [
         {
-            "name": "cloudhead",
-            "email": "self@cloudhead.net"
+            "name": "cloudhead"
         },
         {
-            "name": "indexzero",
-            "email": "charlie.robbins@gmail.com"
+            "name": "indexzero"
         },
         {
-            "name": "phstc",
-            "email": "pablo@pablocantero.com"
+            "name": "phstc"
         }
     ],
     "name": "node-static",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/cloudhead/node-static.git"
