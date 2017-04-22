@@ -1,4 +1,7 @@
-# test coverage for  [node-static (v0.7.9)](https://github.com/cloudhead/node-static)  [![npm package](https://img.shields.io/npm/v/npmtest-node-static.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-static) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-static.svg)](https://travis-ci.org/npmtest/node-npmtest-node-static)
+# npmtest-node-static
+
+#### basic test coverage for  [node-static (v0.7.9)](https://github.com/cloudhead/node-static)  [![npm package](https://img.shields.io/npm/v/npmtest-node-static.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-static) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-static.svg)](https://travis-ci.org/npmtest/node-npmtest-node-static)
+
 #### simple, compliant file streaming module for node
 
 [![NPM](https://nodei.co/npm/node-static.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-static)
